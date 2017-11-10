@@ -1,0 +1,6 @@
+com\pegaxchange\java\web\rest\AlexaIntents.class
+com\pegaxchange\java\web\rest\MyRESTServices.class
+com\pegaxchange\java\bean\Status.class
+com\pegaxchange\java\bean\AlexaResponse.class
+com\pegaxchange\java\bean\Product.class
+com\pegaxchange\java\web\rest\ProductCatalogResource.class
